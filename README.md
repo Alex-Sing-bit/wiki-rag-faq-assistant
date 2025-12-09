@@ -52,13 +52,13 @@ pip install -r requirements.txt
 
 ### 2. Подготовка данных
 ```bash
-# Загрузите ruwikibooks_rules.csv в папку data/
+Загрузите ruwikibooks_rules.csv в папку data/
 ```
 
 ### 3. Настройка API ключа (опционально)
 ```bash
-# Для работы с LLM потребуется API ключ OpenRouter
-# Установите его в FAQ_WikiBooks_Chatbot.ipynb
+Для работы с LLM потребуется API ключ OpenRouter
+Установите его в FAQ_WikiBooks_Chatbot.ipynb
 ```
 
 ### 4. Запуск системы
